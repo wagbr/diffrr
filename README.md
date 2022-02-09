@@ -1,2 +1,2 @@
 # diffrr
-Clone of diffrr package os text reuse
+Clone of diffrr package for text reuse
